@@ -13,7 +13,7 @@ O projeto é composto por quatro arquivos principais:
 
 ## Como Usar
 
-1.  **Certifique-se de que todos os arquivos necessários estejam presentes**
+1. **Certifique-se de que todos os arquivos necessários estejam presentes**
 
    Verifique se os arquivos `style.css` e `dados.js` estão no mesmo diretório que `index.html` e `app.js`. O arquivo `dados.js` deve conter os dados dos atletas e esportes no formato correto para que a pesquisa funcione.
 
